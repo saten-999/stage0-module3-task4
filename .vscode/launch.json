@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch IntRepresentation",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task4.IntRepresentation",
+            "projectName": "java.syntax.task4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormulaCreator",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task4.FormulaCreator",
+            "projectName": "java.syntax.task4"
+        },
+        {
+            "type": "java",
+            "name": "Launch SettingTypes",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task4.SettingTypes",
+            "projectName": "java.syntax.task4"
+        },
+        {
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+        }
+    ]
+}
